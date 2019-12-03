@@ -1,0 +1,6 @@
+{
+  "name": "december-02",
+  "scripts": {
+    "test": "dotnet test"
+  }
+}
