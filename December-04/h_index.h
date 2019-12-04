@@ -1,0 +1,1 @@
+int h_index(int n, int citations[]);
