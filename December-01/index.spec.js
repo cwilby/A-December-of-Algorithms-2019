@@ -13,7 +13,7 @@ describe('getSevenishNumber', () => {
     expect(getNumberish(7)(1000)).toBe(47076750);
   });
 
-  it('can also find tenish numbers', () => {
+  it('can also find tenish (binary) numbers', () => {
     expect(getNumberish(10)(1)).toBe(1);
     expect(getNumberish(10)(2)).toBe(10);
     expect(getNumberish(10)(3)).toBe(11);
