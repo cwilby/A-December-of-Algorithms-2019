@@ -2,6 +2,9 @@
 # visit https://github.com/SVCE-ACM/A-December-of-Algorithms
 # Written individually to adjust for the needs of the problem
 
+node_modules
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
